@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+  }
+  
+  .myform {
+    border-radius: 10%;
+    text-align: center;
+    background-color: brown;
+  }
+  
+  .myform form {
+    margin-top: 20px;
+
+  }
+   input{
+    margin: 10px;
+    border-radius: 13%;
+    height:40px;
+   }
+  
+  
+  
+  
